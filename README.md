@@ -94,7 +94,7 @@ $$Preço = (Peso_{Area} \times Area) + (Peso_{Quartos} \times Quartos) + (Peso_{
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome]** durante estudos de integração entre Java e Inteligência Artificial.
+Desenvolvido por **Bruno Assis** durante estudos de integração entre Java e Inteligência Artificial.
 
 -----
 
