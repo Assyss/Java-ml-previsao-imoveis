@@ -1,10 +1,6 @@
 ````markdown
 # 🏠 Java ML - Previsão de Preços Imobiliários
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Weka](https://img.shields.io/badge/Weka-Machine%20Learning-blue?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-Project-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
 > Um sistema inteligente que utiliza **Machine Learning (Regressão Linear)** para prever o valor de mercado de imóveis com base em características como área, número de quartos e presença de garagem.
 
 ---
