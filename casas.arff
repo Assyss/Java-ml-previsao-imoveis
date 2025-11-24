@@ -1,0 +1,23 @@
+@RELATION imobiliaria
+
+@ATTRIBUTE area NUMERIC
+@ATTRIBUTE quartos NUMERIC
+@ATTRIBUTE garagem NUMERIC
+@ATTRIBUTE preco NUMERIC
+
+@DATA
+% Casas pequenas
+40, 1, 0, 100000
+40, 1, 1, 150000  % Mesma casa, mas com garagem vale +50k
+
+% Casas médias
+80, 2, 0, 200000
+80, 2, 1, 250000  % Mesma casa, mas com garagem vale +50k
+
+% Casas grandes
+120, 3, 0, 400000
+120, 3, 1, 450000 % Mesma casa, mas com garagem vale +50k
+
+% Dados extras para robustez
+60, 2, 0, 180000
+100, 3, 1, 380000
